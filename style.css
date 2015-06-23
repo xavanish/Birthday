@@ -1,4 +1,3 @@
-<style>
 @-webkit-keyframes prelude {
   from{opacity: 0;}
   20%{opacity: 1;}
@@ -133,5 +132,4 @@ audio{
     -o-animation-duration: 7s;
     -o-animation-iteration-count: 1;
 }
-</style>
- <script src="script.js"></script>
+
